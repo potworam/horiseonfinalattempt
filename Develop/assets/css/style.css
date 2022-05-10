@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead{
+.benefit{
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -97,14 +97,14 @@ p {
     text-align: center;
 }
 /*consolidated 3 css links to one*/
-.benefit-lead img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 /*deleted two css img classes*/
 
-.search-engine-optimization {
+.box-text {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -114,13 +114,13 @@ p {
 }
 /*changed 3 css links to one*/
 
-.search-engine-optimization img {
+.box-text img {
     max-height: 200px;
 }
 
 /*deleted a couple img classes*/
 
-.search-engine-optimization h2 {
+.box-text h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -136,3 +136,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*renamed multiple css classes to make more sense*/
